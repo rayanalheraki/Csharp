@@ -1,0 +1,10 @@
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\obj\Debug\soru_2.csprojAssemblyReference.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\obj\Debug\soru_2.Form1.resources
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\obj\Debug\soru_2.csproj.GenerateResource.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\obj\Debug\soru_2.csproj.CoreCompileInputs.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\bin\Debug\basitAracKıralamaProg.exe.config
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\bin\Debug\basitAracKıralamaProg.exe
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\bin\Debug\basitAracKıralamaProg.pdb
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\obj\Debug\basitAracKıralamaProg.Properties.Resources.resources
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\obj\Debug\basitAracKıralamaProg.exe
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_2\obj\Debug\basitAracKıralamaProg.pdb
