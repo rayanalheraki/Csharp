@@ -1,0 +1,10 @@
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\bin\Debug\soru_1.exe.config
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\bin\Debug\soru_1.exe
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\bin\Debug\soru_1.pdb
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\soru_1.csprojAssemblyReference.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\soru_1.Form1.resources
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\soru_1.Properties.Resources.resources
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\soru_1.csproj.GenerateResource.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\soru_1.csproj.CoreCompileInputs.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\soru_1.exe
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\soru_1.pdb

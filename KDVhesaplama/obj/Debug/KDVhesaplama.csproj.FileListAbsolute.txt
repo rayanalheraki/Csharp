@@ -1,0 +1,10 @@
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\bin\Debug\KDVhesaplama.exe.config
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\bin\Debug\KDVhesaplama.exe
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\bin\Debug\KDVhesaplama.pdb
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\KDVhesaplama.csprojAssemblyReference.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\soru_1.Form1.resources
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\KDVhesaplama.Properties.Resources.resources
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\KDVhesaplama.csproj.GenerateResource.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\KDVhesaplama.csproj.CoreCompileInputs.cache
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\KDVhesaplama.exe
+C:\Users\rayyan.RAYAN\Desktop\ahmad sayyadi\soru_1\obj\Debug\KDVhesaplama.pdb
